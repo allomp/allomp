@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allomp
 - 👀 I’m interested in Programming but at the present I'm looking an opportunity with Junior Support Analyst.
-- 🌱 I’m currently learning: Linux, Phyton and Git.
+- 🌱 I’m currently learning: Linux, Python and Git.
 - 💞️ I’m looking to collaborate in new projects ♥
 - 📫 You to reach me for e-mail: mandyllomp@gmail.com or linkedin: amanda-llompart-b95a69aa
 
